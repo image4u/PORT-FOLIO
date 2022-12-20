@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-live-website/static/css/main.b25ec953.css",
+    "main.js": "/react-live-website/static/js/main.b5b23174.js",
+    "static/media/agri2.jpg": "/react-live-website/static/media/agri2.803e3d588c9d901e19bc.jpg",
+    "static/media/workimg.jpeg": "/react-live-website/static/media/workimg.093759ec3bff5ac695dc.jpeg",
+    "static/media/realsimg.jpg": "/react-live-website/static/media/realsimg.0e6b4fe07c9b7a03e894.jpg",
+    "static/media/reac1t.png": "/react-live-website/static/media/reac1t.aa2d1b58de9a7180f161.png",
+    "static/media/nodejs.png": "/react-live-website/static/media/nodejs.749b8af67e60d6b0dcab.png",
+    "static/media/aws.png": "/react-live-website/static/media/aws.af83709e2e928c1e54b1.png",
+    "static/media/linux.webp": "/react-live-website/static/media/linux.b192d6ffe937939e3229.webp",
+    "static/media/js.png": "/react-live-website/static/media/js.6274011d9d236ae61982.png",
+    "static/media/github.png": "/react-live-website/static/media/github.efaf2d77f7318f161e6d.png",
+    "static/media/css.webp": "/react-live-website/static/media/css.fef796e10b901158b62d.webp",
+    "index.html": "/react-live-website/index.html",
+    "static/media/index.cjs": "/react-live-website/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.b25ec953.css.map": "/react-live-website/static/css/main.b25ec953.css.map",
+    "main.b5b23174.js.map": "/react-live-website/static/js/main.b5b23174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25ec953.css",
+    "static/js/main.b5b23174.js"
+  ]
+}
